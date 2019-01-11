@@ -232,7 +232,7 @@
 			}
 
 			if (hasWon()) {
-				alert('You won!');
+				alert('Congratulations, You Win!!');
 
 				cells.forEach(function(e, i) {
 					e.className = '';
