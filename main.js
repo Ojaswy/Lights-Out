@@ -1,6 +1,6 @@
 (function() {
 	'use strict';
-
+ 
 	// removing Magic Numbers
 	// Zero and One from GaloisField(2)
 	var zero = 0;
